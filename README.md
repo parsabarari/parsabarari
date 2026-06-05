@@ -1,48 +1,50 @@
-# Hi, I'm Parsa 👋
+<h1 align="center">Hi, I'm Parsa 👋</h1>
 
-Backend developer focused on building scalable web applications with Python and Django.
-
-I started programming by exploring Python and gradually moved toward backend engineering, API development, and production-oriented systems.
-Currently, I'm focused on improving my understanding of backend architecture, databases, async processing, deployment, and scalable application design.
-
----
-
-<p align="center" style="position: relative;">
-  <!-- <img src="./assets/Banner-4MP.png" style="max-width: 100%;" width="100%" height="auto" loading="eager"> -->
-<!--   <img src="./assets/svg/name_animation.svg"> -->
-  <img src="./assets/svg/triangle.svg" style="max-width: 42%;" width="42%">
+<p align="center">
+Backend-focused developer building web applications with Python & Django
 </p>
 
 ---
 
 ## Tech Stack
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,linux" />
+</p>
 
-* Python
-* Django
+## Worked With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,nginx" />
+</p>
+
 * Django REST Framework
-
-### Databases & Caching
-
-* PostgreSQL
-* Redis
-
-### Async & Background Tasks
-
 * Celery
-
-### DevOps & Deployment
-
-* Docker
 * Gunicorn
-* Nginx
-* Linux basics
-
-### Tools
-
-* Git & GitHub
-* REST APIs
 * Docker Compose
 
 ---
+
+## Featured Project
+
+### Ecommerce Backend
+
+Backend-focused ecommerce system built with Django and DRF.
+
+Features:
+
+* Authentication & permissions
+* Product & order management
+* REST API architecture
+* PostgreSQL integration
+* Dockerized setup
+* Background task integration
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
