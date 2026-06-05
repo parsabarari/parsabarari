@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Parsa 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=auto&text=Hi,%20I'm%20Parsa&section=header&fontColor=ffffff&animation=twinkling" />
+</p>
 
 <p align="center">
 Backend-focused developer building web applications with Python & Django
@@ -30,6 +32,10 @@ Backend-focused developer building web applications with Python & Django
 
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parsabarari&theme=dracula&hide_border=true" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=parsabarari&show_icons=true" />
