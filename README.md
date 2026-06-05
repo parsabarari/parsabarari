@@ -9,42 +9,24 @@ Backend-focused developer building web applications with Python & Django
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,linux" />
-</p>
-
-## Worked With
-
-<p>
-  <img src="https://skillicons.dev/icons?i=redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,django,linux,postgres,docker,git,redis,nginx" />
 </p>
 
 * Django REST Framework
 * Celery
 * Gunicorn
-* Docker Compose
 
 ---
 
 ## Featured Project
 
-### Ecommerce Backend
+* #### [Ecommerce Backend](https://github.com/mahdizynali/SegLight) : Backend-focused ecommerce system built with Django and DRF.
 
-Backend-focused ecommerce system built with Django and DRF.
 
-Features:
-
-* Authentication & permissions
-* Product & order management
-* REST API architecture
-* PostgreSQL integration
-* Dockerized setup
-* Background task integration
-
----
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parsabarari&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsabarari&layout=compact" />
 </p>
