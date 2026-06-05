@@ -20,7 +20,12 @@ Backend-focused developer building web applications with Python & Django
 
 ## Featured Project
 
-* #### [Ecommerce Backend](https://github.com/mahdizynali/SegLight) : Backend-focused ecommerce system built with Django and DRF.
+* #### [Blog Api](https://github.com/parsabarari/blog-drf-cbv-maktabkhooneh-advance) : Blog platform built incrementally while learning and applying Django concepts throughout the development process.
+
+* #### [Todo Api](https://github.com/parsabarari/todo-drf-cbv-maktabkhooneh-advance-project) : Simple task management app built to practice Django fundamentals, CRUD operations, and project structure.
+
+* #### [Ecommerce Backend](https://github.com/parsabarari/Drf-ECommerce-API) : Backend-focused ecommerce system built with Django and DRF to practice real-world backend concepts.
+
 
 
 
