@@ -3,8 +3,16 @@
 </p>
 
 <p align="center">
-Backend-focused developer building web applications with Python & Django
+Backend Developer focused on designing scalable APIs, clean architecture and production-ready web applications with Python & Django.
 </p>
+
+---
+
+## About Me
+
+- Backend developer passionate about designing maintainable APIs
+- Interested in backend architecture, databases, authentication, Docker and deployment
+- Currently building production-style Django REST applications while continuously improving software engineering skills
 
 ---
 
@@ -22,15 +30,14 @@ Backend-focused developer building web applications with Python & Django
 
 ## Featured Project
 
-* #### [Blog Api](https://github.com/parsabarari/blog-drf-cbv-maktabkhooneh-advance) : Blog platform built incrementally while learning and applying Django concepts throughout the development process.
 
-* #### [Todo Api](https://github.com/parsabarari/todo-drf-cbv-maktabkhooneh-advance-project) : Simple task management app built to practice Django fundamentals, CRUD operations, and project structure.
+* #### [Ecommerce Backend](https://github.com/parsabarari/Drf-ECommerce-API) : production-style e-commerce REST API built with Django REST Framework.
 
-* #### [Ecommerce Backend](https://github.com/parsabarari/Drf-ECommerce-API) : Backend-focused ecommerce system built with Django and DRF to practice real-world backend concepts.
+* #### [Blog Api](https://github.com/parsabarari/blog-drf-cbv-maktabkhooneh-advance) : Blog platform built while learning Django through incremental development.
 
+* #### [Todo Api](https://github.com/parsabarari/todo-drf-cbv-maktabkhooneh-advance-project) : Task management REST API for practicing Django fundamentals, CRUD operations and project structure.
 
 ---
-
 
 ## GitHub Stats
 
