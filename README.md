@@ -37,8 +37,6 @@ Backend Developer focused on designing scalable APIs, clean architecture and pro
 
 * #### [Blog Api](https://github.com/parsabarari/blog-drf-cbv-maktabkhooneh-advance) : Blog platform built while learning Django through incremental development.
 
-* #### [Todo Api](https://github.com/parsabarari/todo-drf-cbv-maktabkhooneh-advance-project) : Task management REST API for practicing Django fundamentals, CRUD operations and project structure.
-
 ---
 
 ## GitHub Stats
