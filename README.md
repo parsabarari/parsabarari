@@ -31,6 +31,8 @@ Backend Developer focused on designing scalable APIs, clean architecture and pro
 ## Featured Project
 
 
+* #### [salesflow-backend](https://github.com/parsabarari/salesflow-backend) : A production-grade, multi-tenant CRM SaaS backend built with Django + DRF.
+
 * #### [Ecommerce Backend](https://github.com/parsabarari/Drf-ECommerce-API) : production-style e-commerce REST API built with Django REST Framework.
 
 * #### [Blog Api](https://github.com/parsabarari/blog-drf-cbv-maktabkhooneh-advance) : Blog platform built while learning Django through incremental development.
