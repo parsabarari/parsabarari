@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Backend Developer focused on designing scalable APIs, clean architecture and production-ready web applications with Python & Django.
+Backend Developer focused on designing scalable APIs, clean architecture and production-ready web applications with Python(Django, Fastapi).
 </p>
 
 ---
@@ -19,7 +19,7 @@ Backend Developer focused on designing scalable APIs, clean architecture and pro
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,linux,postgres,docker,git,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,docker,git,redis,nginx" />
 </p>
 
 * Django REST Framework
