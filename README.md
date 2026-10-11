@@ -13,13 +13,14 @@ Backend Developer focused on designing scalable APIs, clean architecture and pro
 - Backend developer passionate about designing maintainable APIs
 - Interested in backend architecture, databases, authentication, Docker and deployment
 - Currently building production-style Django REST applications while continuously improving software engineering skills
+- Passionate about building ai services using fastapi
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,docker,git,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,docker,git,redis,nginx,postman,html,css" />
 </p>
 
 * Django REST Framework
@@ -42,6 +43,6 @@ Backend Developer focused on designing scalable APIs, clean architecture and pro
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parsabarari&theme=high-contrast" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsabarari&theme=high-contrast" />
 </p>
 
