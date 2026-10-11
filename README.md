@@ -43,6 +43,6 @@ Backend Developer focused on designing scalable APIs, clean architecture and pro
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsabarari&theme=high-contrast" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsabarari&theme=dark&animation=fade&name=Parsa+Barari" />
 </p>
 
